@@ -1,0 +1,18 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" stroke-width="7" stroke-miterlimit="10" stroke="#6a0080" fill="none" d="m383.084601,447.7l-251.2,0c-35.9,0 -64.9,-29.1 -64.9,-64.9l0,-251.2c0,-35.9 29.1,-64.9 64.9,-64.9l251.2,0c35.9,0 64.9,29.1 64.9,64.9l0,251.2c0.1,35.9 -29,64.9 -64.9,64.9z"/>
+  <circle id="svg_2" stroke-width="7" stroke-miterlimit="10" stroke="#6a0080" r="104.599998" fill="none" cy="257.2" cx="257.484601"/>
+  <line id="svg_3" y2="168.9" y1="168.9" x2="447.1" x1="312.5" stroke-width="7" stroke-miterlimit="10" stroke="#6a0080" fill="none"/>
+  <line id="svg_4" y2="168.9" y1="168.9" x2="200.5" x1="66" stroke-width="7" stroke-miterlimit="10" stroke="#6a0080" fill="none"/>
+  <circle id="svg_5" stroke-width="7" stroke-miterlimit="10" stroke="#6a0080" r="70.8" fill="none" cy="257.2" cx="256.5"/>
+  <line id="svg_6" y2="168.9" y1="67.9" x2="118.2" x1="118.2" stroke-width="7" stroke-miterlimit="10" stroke="#6a0080" fill="none"/>
+  <line id="svg_7" y2="168.9" y1="67.9" x2="171.3" x1="171.3" stroke-width="7" stroke-miterlimit="10" stroke="#6a0080" fill="none"/>
+  <path id="svg_8" stroke-width="7" stroke-miterlimit="10" stroke="#6a0080" fill="none" d="m414,139.2c0,5.8 -4.7,10.5 -10.5,10.5l-32,0c-5.8,0 -10.5,-4.7 -10.5,-10.5l0,-32c0,-5.8 4.7,-10.5 10.5,-10.5l32,0c5.8,0 10.5,4.7 10.5,10.5l0,32z"/>
+ </g>
+</svg>
